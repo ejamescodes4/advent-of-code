@@ -1,2 +1,4 @@
 Ethans Code for the 2022 "Advent of Code" event 
 https://adventofcode.com/2022
+
+Day 1: Completed
