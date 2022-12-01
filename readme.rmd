@@ -1,7 +1,8 @@
 Ethans Code for the 2022 "Advent of Code" event 
 https://adventofcode.com/2022
 
-Day 1: Completed
+Day 1: Completed 
+(Read text file, parse to assign group, summarise and find highest values)
 Day 2
 Day 3
 Day 4
