@@ -3,7 +3,8 @@ https://adventofcode.com/2022
 
 Day 1: Completed 
 (Read text file, parse text to assign group, summarise values and find highest values by group)
-Day 2
+Day 2: Completed
+(Read text file, parse and recode text, create joins, summarise values)
 Day 3
 Day 4
 Day 5
